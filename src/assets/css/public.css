@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0
+}
+
+.key{
+    font-family: SourceHanSansCN-Regular;
+	font-size: 0.79rem;
+	font-weight: normal;
+	font-stretch: normal;
+}
+/* .mint-popup{
+    background: transparent
+} */
